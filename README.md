@@ -26,13 +26,6 @@
 ---
 
 
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Endale2&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 ### 📬 Contact Me
 <p align="center">
   <a href="mailto:endale406@gmail.com">
