@@ -25,7 +25,6 @@
 
 ---
 
-
 ### 📬 Contact Me
 <p align="center">
   <a href="mailto:endale406@gmail.com">
