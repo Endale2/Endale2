@@ -38,7 +38,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=80&section=footer"/>
+
   <img width="1880" height="877" alt="image" src="https://github.com/user-attachments/assets/4b5b32df-859d-4bfa-93e2-0d07dfb33468" />
 
 </div>
