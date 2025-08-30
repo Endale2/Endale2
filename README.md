@@ -13,12 +13,6 @@
 
 ---
 
-### 🛠️ Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,dart,flutter,vue,react,nuxtjs,nodejs,aws,docker,git,tensorflow,mongodb,postgres" />
-</p>
-
----
 
 ### 📊 GitHub Insights
 <p align="center">
