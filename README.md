@@ -9,7 +9,7 @@
 🚀 Passionate **Full Stack Developer** who loves building scalable web & mobile applications.  
 📱 Experienced in Flutter, Vue, React, and backend systems with Go.  
 🌱 Currently exploring **Machine Learning** and advanced backend architecture.  
-🌐 Building [Shop24](http://shop24.sbs) – a multi-tenant e-commerce platform.
+
 
 ---
 
