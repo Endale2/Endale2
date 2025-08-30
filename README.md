@@ -38,7 +38,6 @@
 
 
 <div align="center">
-
-  <img width="1880" height="877" alt="image" src="https://github.com/user-attachments/assets/4b5b32df-859d-4bfa-93e2-0d07dfb33468" />
-
+  <img src="https://github.com/user-attachments/assets/4b5b32df-859d-4bfa-93e2-0d07dfb33468" alt="Featured Project" width="600"/>
 </div>
+
