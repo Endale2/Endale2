@@ -1,7 +1,4 @@
-<!-- 🌟 Profile Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Endale!;Full+Stack+%26+Mobile+App+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+
 
 ---
 
