@@ -16,9 +16,10 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Endale2&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Endale2&theme=tokyonight&hide_border=true" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endale2&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
+
 
 ---
 
