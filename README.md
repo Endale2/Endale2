@@ -5,7 +5,6 @@
 📱 Experienced in Flutter, Vue, React, and backend systems with Go.  
 🌱 Currently exploring **Machine Learning** and advanced backend architecture.  
 
-
 ---
 
 
