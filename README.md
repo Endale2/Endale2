@@ -1,5 +1,4 @@
 ---
-
 ### 🧑‍💻 About Me
 🚀 Passionate **Full Stack Developer** who loves building scalable web & mobile applications.  
 📱 Experienced in Flutter, Vue, React, and backend systems with Go.  
