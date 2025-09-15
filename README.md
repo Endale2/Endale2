@@ -5,7 +5,6 @@
 🌱 Currently exploring **Machine Learning** and advanced backend architecture.  
 
 ---
-
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Endale2&theme=tokyonight&hide_border=true" height="165px"/>
